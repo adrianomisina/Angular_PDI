@@ -1,15 +1,21 @@
 Plano de Desenvolvimento Individual (PDI) para Domínio de Angular
-Objetivo Principal: Dominar o framework Angular e suas melhores práticas até 13 de dezembro de 2024, com foco em implementação eficiente, manutenção de código e entrega de soluções de alta qualidade.
+Objetivo Principal: Dominar o framework Angular e suas melhores práticas com foco em implementação eficiente, manutenção de código e entrega de soluções de alta qualidade.
 
 Referências:
 
 Documentação Oficial do Angular
-Curso de Desenvolvimento WEB com Javascript / TypeScript e Angular - Denner Truquatti
+Curso de Desenvolvimento WEB com Javascript / TypeScript e Angular - Dener Troquatte
+
 Cronograma Detalhado:
-Fundamentos do Angular
-Semana 1-2: Introdução e Configuração do Ambiente
+
+Fundamentos do Angular: 
+
+Semana 1-2: 
+
+Introdução e Configuração do Ambiente
 
 Instalar Node.js e Angular CLI:
+
 Baixar e instalar Node.js.
 Instalar Angular CLI com npm install -g @angular/cli.
 Configurar o Projeto:
@@ -18,9 +24,13 @@ Explorar a estrutura de diretórios e arquivos do Angular (src, app, assets, etc
 Configurar o Ambiente de Desenvolvimento:
 Instalar extensões úteis como Angular Language Service, Prettier, e outras para o VS Code.
 Configurar o ambiente para JavaScript e TypeScript, habilitando linting e formatação automática.
-Semana 3-4: Fundamentos de JavaScript e TypeScript
+
+Semana 3-4: 
+
+Fundamentos de JavaScript e TypeScript
 
 JavaScript e TypeScript Essenciais:
+
 Revisar e aprender conceitos de variáveis, tipos de dados, e funções.
 Explorar ES6+ (arrow functions, destructuring, template strings).
 TypeScript Básico:
